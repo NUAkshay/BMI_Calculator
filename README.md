@@ -1,4 +1,4 @@
-BMI Calculator Program 🖩🖩 </p>
+BMI Calculator 🖩🖩 </p>
 
 What is Body Mass Index (BMI)?
 
